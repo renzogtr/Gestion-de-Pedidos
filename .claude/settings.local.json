@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(cd \"E:/TECSUP/Springboot/Examen SpringBoot Avanzado/pedidos\" && mvn test 2>&1)"
-    ]
-  }
-}
